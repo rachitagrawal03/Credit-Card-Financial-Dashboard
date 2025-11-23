@@ -40,7 +40,7 @@ Focuses on customer demographics and how they contribute to revenue.
 - Behavior-based segmentation (Card Category, Payment Channel)
 
 **Screenshot:**  
-![Customer Dashboard](./images/Credit%20Card%20Customer%20Dashboard.png)
+![Customer Dashboard](./Images/Credit%20Card%20Customer%20Dashboard.png)
 
 ---
 
@@ -58,7 +58,7 @@ Provides insight into financial transactions, card usage behavior, and quarterly
 - High-level transaction KPIs  
 
 **Screenshot:**  
-![Transaction Dashboard](./images/Credit%20Card%20Transaction%20Dashboard.png)
+![Transaction Dashboard](./Images/Credit%20Card%20Transaction%20Dashboard.png)
 
 ---
 
